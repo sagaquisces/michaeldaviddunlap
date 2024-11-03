@@ -7,8 +7,9 @@ function App() {
     <>
       <h1>michaeldaviddunlap.com</h1>
       <p className="read-the-docs">
-        is down for the count...for now.
+        has no bells nor whistles. However...
       </p>
+      <a href='https://www.youtube.com/watch?v=IjKi2jx_66Y'>...here is Michael singing Osmin for a few minutes.</a>
     </>
   )
 }
