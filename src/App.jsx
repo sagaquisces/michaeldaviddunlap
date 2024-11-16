@@ -15,6 +15,18 @@ function App() {
       <p>
         <a href='https://www.facebook.com/share/v/14kjCHzgMH/'>...and here he is summoning Hellfire as Frollo in Hunchback.</a>
       </p>
+      <p>
+        He has written some trifles for piano as well:
+      </p>
+      <p>
+        <a href="https://www.youtube.com/watch?v=3nQ6FuX-xME">Tripletude</a>
+      </p>
+      <p>
+        <a href="https://www.youtube.com/watch?v=-axQOk9okA4">Prelude in A Minor</a>
+      </p>
+      <p>
+        <a href="https://www.youtube.com/watch?v=kNO2AoYn2RA">Tattletale</a>
+      </p>
     </>
   )
 }
